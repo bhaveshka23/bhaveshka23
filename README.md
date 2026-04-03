@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaveshka23)
 [![Gmail](https://img.shields.io/badge/Gmail-bhaveshkale419-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaveshkale419@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bhaveshka23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaveshka23)
+[![Portfolio](https://img.shields.io/badge/GitHub-bhaveshka23-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.bhaveshkale.dev)
 
 </div>
 
